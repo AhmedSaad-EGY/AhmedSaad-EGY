@@ -8,7 +8,7 @@
 
 - 🌱 I'm currently learning **.NET framework & Angular**
 
-- 💬 Ask me about **Vue.js & .NET Core**
+- 💬 Ask me about **HTML, CSS, JavaScript, Vue.js & .NET Framework**
 
 - 📫 How to reach me **ahmedmohammedsaad01@gmail.com**
 

@@ -1,94 +1,74 @@
-<!-- HEADER ANIMATION -->
+<!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=200&section=header&text=Ahmed%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn" />
-</p>
-
-<h1 align="center">🚀 Ahmed Mohammed Saad</h1>
-<h3 align="center">Full-Stack .NET Developer | Building Real Systems</h3>
-
-<p align="center">
-  <a href="https://github.com/AhmedSaad-EGY">
-    <img src="https://komarev.com/ghpvc/?username=AhmedSaad-EGY&label=Profile%20Views&color=0e75b6&style=flat" />
-  </a>
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=Ahmed+Mohamed+Saad;Backend+.NET+Engineer;Building+Scalable+Systems;Clean+Architecture+Advocate" />
 </p>
 
 ---
 
-## ⚡ About Me
+<h2 align="center">⚡ Backend Engineer | .NET Specialist</h2>
+
 <p align="center">
-I build backend systems that scale, not just CRUD apps.  
-Focused on Clean Architecture, performance, and real-world problem solving.
+I build backend systems that scale, perform, and survive real-world usage.
 </p>
 
 ---
 
-## 🧠 Tech Stack
+## 🧠 Dynamic Overview
 
 <p align="center">
-
-<img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,html,css,git,github,postgresql,mysql" />
-
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=AhmedSaad-EGY&theme=tokyonight" />
 </p>
 
 ---
 
-## 🔥 Featured Projects
+## 🔥 Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=dotnet,cs,js,react,sqlserver,postgresql,git,github,docker" />
+</p>
+
+---
+
+## 🚀 Featured Work
 
 ### 🛒 AS Store
-<p>
-Full-stack E-commerce system built with Clean Architecture  
-</p>
+- Clean Architecture  
+- JWT Authentication  
+- Real business logic  
 
-🔗 <a href="https://ahmedsaadstore.vercel.app">Live Demo</a>  
-🔗 <a href="https://github.com/AhmedSaad-EGY/AS_Store">Source Code</a>
+🔗 https://ahmedsaadstore.vercel.app  
+🔗 https://github.com/AhmedSaad-EGY/AS_Store  
 
 ---
 
 ### 🔧 Khidma Platform
-<p>
-Service marketplace platform with multi-role system  
-</p>
+- Multi-role system  
+- Scalable backend structure  
 
-🔗 <a href="https://github.com/AhmedSaad-EGY/Khidma">Source Code</a>
+🔗 https://github.com/AhmedSaad-EGY/Khidma  
 
 ---
 
-## 📊 Stats
+## 📊 Live Stats (Dynamic)
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=AhmedSaad-EGY&show_icons=true&theme=tokyonight&hide_border=true" height="150"/>
   <img src="https://streak-stats.demolab.com?user=AhmedSaad-EGY&theme=tokyonight&hide_border=true" height="150"/>
 </p>
 
+---
+
+## 📈 Activity Graph
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaad-EGY&layout=compact&theme=tokyonight&hide_border=true"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=AhmedSaad-EGY&theme=tokyo-night&hide_border=true"/>
 </p>
 
 ---
 
-## 🌐 Connect With Me
+## 🎯 Current Focus
 
-<p align="center">
-<a href="https://www.linkedin.com/in/ahmed-mohamed-saad-b57695356"><img src="https://skillicons.dev/icons?i=linkedin" /></a>
-<a href="https://ahmedsaad.vercel.app"><img src="https://skillicons.dev/icons?i=vercel" /></a>
-<a href="https://wa.link/rm627m"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/></a>
-</p>
-
----
-
-## 💀 Reality Check
-<p align="center">
-UI gets attention...  
-Projects get you hired.
-</p>
-
-<p align="center">
-<b>Make sure your code is as strong as your profile.</b>
-</p>
-
----
-
-<!-- FOOTER -->
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer"/>
-</p>
+```txt
+→ Scaling backend systems
+→ Improving performance
+→ Writing production-grade code

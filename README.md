@@ -79,10 +79,12 @@ I'm a **Full-Stack .NET Developer** who builds backends meant to survive contact
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=AhmedSaad-EGY&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" height="165" alt="GitHub Stats"/>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AhmedSaad-EGY&layout=compact&theme=tokyonight&hide_border=true" height="165" alt="Top Languages"/>
+<img src="assets/stats.svg" height="165" alt="GitHub Stats"/>
+<img src="assets/top-langs.svg" height="165" alt="Top Languages"/>
 
-<img src="https://streak-stats.demolab.com/?user=AhmedSaad-EGY&theme=tokyonight&hide_border=true" alt="GitHub Streak"/>
+<img src="assets/streak.svg" alt="GitHub Streak"/>
+
+<sub>Cards are cached locally and refreshed daily by GitHub Actions — see <a href="https://github.com/AhmedSaad-EGY/AhmedSaad-EGY/actions">Actions</a> for last run.</sub>
 
 </div>
 

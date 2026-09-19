@@ -1,110 +1,300 @@
-<div align="center">
+\<div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0EA5E9,100:6366F1&height=190&section=header&text=Ahmed%20Mohammed%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full-Stack%20.NET%20Developer%20%7C%20Clean%20Architecture&descAlignY=55&descSize=18" width="100%"/>
+\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0EA5E9&height=190&section=header&text=Ahmed%20Mohammed%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving\&color=0:512BD4,100:0EA5E9\&height=190\&section=header\&text=Ahmed%20Mohammed%20Saad\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Backend%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server\&descAlignY=55\&descSize=18)" width="100%"/>
 
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsaad.vercel.app)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-saad-b57695356/)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohammedsaad01@gmail.com)
-![Location](https://img.shields.io/badge/Zagazig,_Egypt-1e2327?style=for-the-badge&logo=googlemaps&logoColor=white)
 
-</div>
+\
 
-I'm a **Full-Stack .NET Developer** who builds backends meant to survive contact with real users — layered with Clean Architecture, backed by tests, and shipped end-to-end. Most of my energy right now goes into **Saiyad (صياد)**, a real-time fishing marketplace and live-auction platform I designed and built solo, front to back.
 
----
+\</div>
 
-### 🧑‍💻 About Me
+## 👋 About Me
 
-- 🎯 Trainee Team Lead at Egypt's **Digital Pioneers Initiative (DEPI)**, Ministry of Communications — leading a small development squad end-to-end
-- 🏗️ Reach for **Clean Architecture** and SOLID by default: Domain / Data / API separation, repository + unit-of-work patterns, DTO-first boundaries
-- 🎣 Building **Saiyad**, a full-stack SaaS with real-time SignalR auctions, JWT auth, wallets, and a bilingual (AR/EN) PWA frontend
-- 🔍 Run evidence-based production-readiness audits on my own projects — real lint runs, real builds, real bugs found and fixed, not guesswork
-- 🤖 Work Plan → Build → Review across multiple AI coding agents (Claude Code, Cursor, Codex CLI) to move faster without losing code quality
-- 📍 Based in Zagazig, Egypt
+I'm a **Backend .NET Developer** focused on building backend systems around real business rules, not just CRUD endpoints.
 
----
+I work primarily with **ASP.NET Core, C#, Entity Framework Core, and SQL Server**, with particular interest in:
 
-### 🛠️ Tech Stack
+- Clean Architecture and maintainable system boundaries
+- REST API design
+- Authentication and authorization
+- Transactional business workflows
+- Optimistic concurrency
+- Database design
+- Real-time systems with SignalR
+- Unit, integration, and architecture testing
+- Production-oriented backend practices
 
-**Languages & Backend**
-
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![ASP.NET Core](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
-
-**Data & Real-Time**
-
-![SQL Server](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![SignalR](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white)
-![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)
-
-**Frontend & Tooling**
-
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Alpine.js](https://img.shields.io/badge/Alpine.js-8BC0D0?style=for-the-badge&logo=alpinedotjs&logoColor=white)
-![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
+I enjoy working on systems where correctness matters: scheduling, payments, permissions, financial workflows, multi-tenant access, and concurrent operations.
 
 ---
 
-### 🚀 Featured Project — Saiyad (صياد)
+## 🛠️ Core Backend Stack
 
-**Real-time fishing marketplace & live-auction SaaS**, connecting fishermen, bait sellers, and auctioneers with customers across Egypt. Solo-built end to end: schema, API, real-time layer, and frontend.
+\<p align="left">
 
-| | |
-|---|---|
-| **Architecture** | Clean Architecture on .NET 10 — API → Domain → Data, 16 controllers, 60+ REST endpoints |
-| **Real-time** | SignalR-powered auctions with an auto-bid engine (up to 20 rounds) and optimistic concurrency (RowVersion + retry) |
-| **Roles & billing** | 5 roles (Admin, Customer, Fisherman, Bait Seller, Auctioneer) · 4 subscription tiers · wallet system |
-| **Auth & security** | JWT with rotating, SHA-256-hashed refresh tokens · XSS-sanitizing middleware |
-| **Frontend** | Vite + Alpine.js + Bootstrap 5 SPA · full AR/EN i18n with live RTL↔LTR switching · installable PWA |
-| **Quality** | 22 automated tests (unit + integration), all passing |
+\<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=nuget\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)"/>
 
-🔗 **[Live Demo](https://saiyad-eg.vercel.app)** · **[API Docs (Swagger)](https://sayiad.runasp.net/swagger/index.html)** · **[Backend Repo](https://github.com/AhmedSaad-EGY/Saiyad)** · **[Frontend Repo](https://github.com/AhmedSaad-EGY/Saiyad_UI)**
+\</p>
 
-### 📁 Other Projects
+### Backend Engineering
 
-| Project | Description | Stack | Links |
-|---|---|---|---|
-| 🛍️ **AS Store** | E-commerce storefront — product catalog, cart, and multi-step checkout | HTML5 · CSS3 · JavaScript | [Live](https://ahmedsaadstore.vercel.app) · [Repo](https://github.com/AhmedSaad-EGY/AS_Store) |
-| 🗄️ **Khidma** | Database design for a multi-role service marketplace — normalized schema, 63 stored procedures, 26 views | SQL Server | [Repo](https://github.com/AhmedSaad-EGY/Khidma) |
+\<p align="left">
 
----
+\<img src="[https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
+\<img src="[https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)"/>
+\<img src="[https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)"/>
+\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
 
-### 📊 GitHub Stats
-
-<div align="center">
-
-<img src="assets/stats.svg" height="165" alt="GitHub Stats"/>
-<img src="assets/top-langs.svg" height="165" alt="Top Languages"/>
-
-<img src="assets/streak.svg" alt="GitHub Streak"/>
-
-<sub>Cards are cached locally and refreshed daily by GitHub Actions — see <a href="https://github.com/AhmedSaad-EGY/AhmedSaad-EGY/actions">Actions</a> for last run.</sub>
-
-</div>
+\</p>
 
 ---
 
-### 🎯 Currently
+# 🚀 Featured Backend Projects
 
+## 🏥 Clinic Management Backend
+
+A production-oriented **clinic management backend** built as a modular monolith with Clean Architecture.
+
+The system models real clinic workflows including scheduling, patients, clinical records, cashier operations, collections, refunds, treatment packages, prescriptions, and administrative approvals.
+
+### Engineering Highlights
+
+- Clean Architecture with strict project boundaries
+- Domain, Application, Infrastructure, and API layers
+- Architecture tests enforcing dependency rules
+- Domain and Application unit tests
+- SQL Server-backed API integration tests
+- Doctor, room, and medical-device conflict protection
+- Transactional appointment scheduling
+- Cash drawers and cashier shifts
+- Payment allocation and refund workflows
+- Administrative cancellation approvals
+- SQL Server `rowversion` optimistic concurrency
+- ASP.NET Core Identity
+- Secure cookie authentication
+- CSRF protection
+- RFC-style `ProblemDetails`
+- Audit logging
+- Health and SQL Server readiness checks
+
+**Tech:** `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Identity` · `xUnit`
+
+\
+
+
+---
+
+## 🏠 EstateHub
+
+A large **multi-tenant real-estate platform backend** supporting customers, real-estate companies, employees, and platform administrators.
+
+The system covers property discovery, company operations, projects, units, listings, CRM, bookings, subscriptions, promotions, billing, reviews, notifications, and secure file delivery.
+
+### Engineering Highlights
+
+- Clean Architecture-inspired layered backend
+- Multi-tenant company access
+- Database-backed permission resolution
+- Fine-grained company RBAC
+- Separate platform administration authorization
+- JWT authentication
+- Persisted refresh sessions
+- Refresh-token rotation and revocation
+- Authentication-specific rate limiting
+- Optimistic concurrency
+- Transactional business operations
+- Projection-first EF Core queries
+- Pagination and cancellation-token propagation
+- Secure file upload and delivery
+- Billing and subscription workflows
+- Extensive API documentation
+- **164 distinct HTTP verb/route pairs across 32 controllers**
+
+**Tech:** `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Identity` · `JWT`
+
+
+\
+
+
+---
+
+## 🎣 Saiyad — Real-Time Marketplace & Auctions
+
+A backend for a fishing marketplace and real-time auction platform connecting customers, fishermen, bait sellers, and auctioneers.
+
+Saiyad focuses heavily on real-time communication and production-oriented runtime concerns.
+
+### Engineering Highlights
+
+- Real-time auctions using SignalR
+- Group-based auction communication
+- Concurrency-safe bidding
+- Automatic bid processing
+- JWT authentication
+- Rotating refresh tokens
+- SHA-256 refresh-token storage
+- Background services for timed workflows
+- Wallet and subscription systems
+- Order and payment workflows
+- Health checks
+- SQL Server monitoring
+- Serilog structured logging
+- Rate limiting
+- Security headers
+- Production migration locking with SQL Server application locks
+- Automated unit and integration tests
+
+**Tech:** `.NET 10` · `ASP.NET Core` · `SignalR` · `EF Core` · `SQL Server` · `JWT` · `Serilog`
+
+
+\
+
+
+---
+
+# 🗄️ Database Engineering
+
+## Khidma
+
+A SQL Server database designed for a multi-role service marketplace.
+
+The project focuses on relational database design and database-side workflows.
+
+### Highlights
+
+- Normalized relational schema
+- Entity relationships and integrity constraints
+- Foreign keys and cascading rules
+- **63 Stored Procedures**
+- **26 SQL Views**
+- Reporting and operational queries
+
+
+
+---
+
+# 🧪 How I Approach Backend Engineering
+
+I try to make architectural and implementation decisions based on the problem rather than adding patterns automatically.
+
+Some principles I follow:
+
+```text
+Business rules belong outside controllers.
+
+Domain code should not depend on infrastructure.
+
+Use transactions when partial completion would corrupt business state.
+
+Handle concurrent updates explicitly when correctness matters.
+
+Use Result-style outcomes for expected business failures.
+
+Use exceptions for unexpected failures.
+
+Avoid generic abstractions when the framework already provides the behavior.
+
+Test business rules, HTTP behavior, database behavior, and architecture boundaries.
+
+Protect historical financial and clinical data instead of treating everything as disposable CRUD data.
 ```
-→ Hardening Saiyad's wallet & subscription billing logic
-→ Deepening Clean Architecture / SOLID fundamentals through real audits, not tutorials
-→ Leading a development squad through DEPI's team-lead track
-→ Refining a Plan → Build → Review workflow across AI coding agents
-```
 
 ---
 
-<div align="center">
+# 🔍 Areas I'm Currently Deepening
 
-**Open to Full-Stack .NET opportunities.** If you're hiring, or just want to talk architecture, <a href="mailto:ahmedmohammedsaad01@gmail.com">my inbox</a> is open.
+- Advanced ASP.NET Core
+- System Design
+- SQL Server performance
+- Database concurrency
+- Authentication & authorization
+- Distributed systems fundamentals
+- Application observability
+- Automated testing strategy
+- CI/CD and deployment automation
 
-![Profile Views](https://komarev.com/ghpvc/?username=AhmedSaad-EGY&color=6366f1&style=flat)
+---
 
-</div>
+# 🌐 Additional Web Experience
+
+Backend development is my primary focus, but I also have experience building and integrating frontend applications.
+
+Technologies I've worked with include:
+
+```text
+JavaScript
+TypeScript
+React
+Vite
+Alpine.js
+Bootstrap
+HTML
+CSS
+PWA
+REST API Integration
+SignalR Clients
+```
+
+This helps me understand how frontend applications consume and interact with backend systems without positioning frontend development as my main specialization.
+
+---
+
+# 📊 GitHub Activity
+
+\<div align="center">
+
+\<img src="assets/stats.svg" height="165" alt="Ahmed Saad GitHub Stats"/>
+\<img src="assets/top-langs.svg" height="165" alt="Ahmed Saad Top Languages"/>
+
+\<br/>
+
+\<img src="assets/streak.svg" alt="Ahmed Saad GitHub Streak"/>
+
+\</div>
+
+---
+
+# 🎯 What I'm Looking For
+
+I'm currently open to opportunities as a:
+
+### **Backend .NET Developer**
+
+where I can work on real backend systems involving:
+
+```text
+ASP.NET Core
+REST APIs
+SQL Server
+Entity Framework Core
+Authentication & Authorization
+Business Workflows
+Concurrency
+Testing
+Backend Architecture
+```
+
+I'm especially interested in teams where I can keep improving through code reviews, production systems, and strong engineering practices.
+
+---
+
+\<div align="center">
+
+## 📫 Let's Connect
+
+
+\
+
+
+\<br/>
+
+**Backend .NET Developer · C# · ASP.NET Core · SQL Server**
+
+\</div>

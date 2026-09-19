@@ -1,12 +1,12 @@
-\<div align="center">
+<div align="center">
 
-\<img src="[https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0EA5E9&height=190&section=header&text=Ahmed%20Mohammed%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server&descAlignY=55&descSize=18](https://capsule-render.vercel.app/api?type=waving\&color=0:512BD4,100:0EA5E9\&height=190\&section=header\&text=Ahmed%20Mohammed%20Saad\&fontSize=40\&fontColor=ffffff\&animation=fadeIn\&fontAlignY=35\&desc=Backend%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server\&descAlignY=55\&descSize=18)" width="100%"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:512BD4,100:0EA5E9&height=190&section=header&text=Ahmed%20Mohammed%20Saad&fontSize=40&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Backend%20.NET%20Developer%20%7C%20ASP.NET%20Core%20%7C%20SQL%20Server&descAlignY=55&descSize=18" width="100%"/>
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsaad.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-saad-b57695356/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohammedsaad01@gmail.com)
 
-\
-
-
-\</div>
+</div>
 
 ## 👋 About Me
 
@@ -30,29 +30,29 @@ I enjoy working on systems where correctness matters: scheduling, payments, perm
 
 ## 🛠️ Core Backend Stack
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white](https://img.shields.io/badge/C%23-239120?style=for-the-badge\&logo=csharp\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge\&logo=nuget\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white](https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge\&logo=microsoftsqlserver\&logoColor=white)"/>
+<img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white"/>
+<img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/ASP.NET_Core-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge&logo=nuget&logoColor=white"/>
+<img src="https://img.shields.io/badge/SQL_Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white"/>
 
-\</p>
+</p>
 
 ### Backend Engineering
 
-\<p align="left">
+<p align="left">
 
-\<img src="[https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge](https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge](https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white](https://img.shields.io/badge/JWT-000000?style=for-the-badge\&logo=jsonwebtokens\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white](https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge\&logo=dotnet\&logoColor=white)"/>
-\<img src="[https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge](https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge)"/>
-\<img src="[https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge\&logo=swagger\&logoColor=black)"/>
-\<img src="[https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white](https://img.shields.io/badge/Git-F05032?style=for-the-badge\&logo=git\&logoColor=white)"/>
+<img src="https://img.shields.io/badge/REST_APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Clean_Architecture-111827?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white"/>
+<img src="https://img.shields.io/badge/SignalR-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+<img src="https://img.shields.io/badge/xUnit-512BD4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black"/>
+<img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
 
-\</p>
+</p>
 
 ---
 
@@ -86,8 +86,8 @@ The system models real clinic workflows including scheduling, patients, clinical
 
 **Tech:** `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Identity` · `xUnit`
 
-\
-
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedSaad-EGY/Clinic_Backend)
+[![Architecture](https://img.shields.io/badge/Architecture-512BD4?style=for-the-badge)](https://github.com/AhmedSaad-EGY/Clinic_Backend/blob/main/ARCHITECTURE.md)
 
 ---
 
@@ -119,9 +119,9 @@ The system covers property discovery, company operations, projects, units, listi
 
 **Tech:** `.NET 10` · `ASP.NET Core` · `EF Core` · `SQL Server` · `Identity` · `JWT`
 
-
-\
-
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedSaad-EGY/EStateHub)
+[![Live Frontend](https://img.shields.io/badge/Live_Frontend-000000?style=for-the-badge&logo=vercel)](https://e-statehub.vercel.app)
+[![API](https://img.shields.io/badge/Deployed_API-512BD4?style=for-the-badge)](https://estatehub.runasp.net)
 
 ---
 
@@ -153,9 +153,9 @@ Saiyad focuses heavily on real-time communication and production-oriented runtim
 
 **Tech:** `.NET 10` · `ASP.NET Core` · `SignalR` · `EF Core` · `SQL Server` · `JWT` · `Serilog`
 
-
-\
-
+[![Backend](https://img.shields.io/badge/Backend_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedSaad-EGY/Saiyad)
+[![Live App](https://img.shields.io/badge/Live_App-000000?style=for-the-badge&logo=vercel)](https://saiyad-eg.vercel.app)
+[![Swagger](https://img.shields.io/badge/Swagger-85EA2D?style=for-the-badge&logo=swagger&logoColor=black)](https://sayiad.runasp.net/swagger/index.html)
 
 ---
 
@@ -176,7 +176,7 @@ The project focuses on relational database design and database-side workflows.
 - **26 SQL Views**
 - Reporting and operational queries
 
-
+[![Repository](https://img.shields.io/badge/View_Repository-181717?style=for-the-badge&logo=github)](https://github.com/AhmedSaad-EGY/Khidma)
 
 ---
 
@@ -222,42 +222,18 @@ Protect historical financial and clinical data instead of treating everything as
 
 ---
 
-# 🌐 Additional Web Experience
-
-Backend development is my primary focus, but I also have experience building and integrating frontend applications.
-
-Technologies I've worked with include:
-
-```text
-JavaScript
-TypeScript
-React
-Vite
-Alpine.js
-Bootstrap
-HTML
-CSS
-PWA
-REST API Integration
-SignalR Clients
-```
-
-This helps me understand how frontend applications consume and interact with backend systems without positioning frontend development as my main specialization.
-
----
-
 # 📊 GitHub Activity
 
-\<div align="center">
+<div align="center">
 
-\<img src="assets/stats.svg" height="165" alt="Ahmed Saad GitHub Stats"/>
-\<img src="assets/top-langs.svg" height="165" alt="Ahmed Saad Top Languages"/>
+<img src="assets/stats.svg" height="165" alt="Ahmed Saad GitHub Stats"/>
+<img src="assets/top-langs.svg" height="165" alt="Ahmed Saad Top Languages"/>
 
-\<br/>
+<br/>
 
-\<img src="assets/streak.svg" alt="Ahmed Saad GitHub Streak"/>
+<img src="assets/streak.svg" alt="Ahmed Saad GitHub Streak"/>
 
-\</div>
+</div>
 
 ---
 
@@ -285,16 +261,16 @@ I'm especially interested in teams where I can keep improving through code revie
 
 ---
 
-\<div align="center">
+<div align="center">
 
 ## 📫 Let's Connect
 
+[![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsaad.vercel.app)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-saad-b57695356/)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ahmedmohammedsaad01@gmail.com)
 
-\
-
-
-\<br/>
+<br/>
 
 **Backend .NET Developer · C# · ASP.NET Core · SQL Server**
 
-\</div>
+</div>

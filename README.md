@@ -8,7 +8,7 @@
 
 </div>
 
-## 👋 About Me
+##  About Me
 
 I'm a **Backend .NET Developer** focused on building backend systems around real business rules, not just CRUD endpoints.
 
@@ -28,7 +28,7 @@ I enjoy working on systems where correctness matters: scheduling, payments, perm
 
 ---
 
-## 🛠️ Core Backend Stack
+##  Core Backend Stack
 
 <p align="left">
 
@@ -56,9 +56,9 @@ I enjoy working on systems where correctness matters: scheduling, payments, perm
 
 ---
 
-# 🚀 Featured Backend Projects
+#  Featured Backend Projects
 
-## 🏥 Clinic Management Backend
+##  Clinic Management Backend
 
 A production-oriented **clinic management backend** built as a modular monolith with Clean Architecture.
 
@@ -91,7 +91,7 @@ The system models real clinic workflows including scheduling, patients, clinical
 
 ---
 
-## 🏠 EstateHub
+##  EstateHub
 
 A large **multi-tenant real-estate platform backend** supporting customers, real-estate companies, employees, and platform administrators.
 
@@ -125,7 +125,7 @@ The system covers property discovery, company operations, projects, units, listi
 
 ---
 
-## 🎣 Saiyad — Real-Time Marketplace & Auctions
+##  Saiyad — Real-Time Marketplace & Auctions
 
 A backend for a fishing marketplace and real-time auction platform connecting customers, fishermen, bait sellers, and auctioneers.
 
@@ -159,7 +159,7 @@ Saiyad focuses heavily on real-time communication and production-oriented runtim
 
 ---
 
-# 🗄️ Database Engineering
+#  Database Engineering
 
 ## Khidma
 
@@ -180,7 +180,7 @@ The project focuses on relational database design and database-side workflows.
 
 ---
 
-# 🧪 How I Approach Backend Engineering
+#  How I Approach Backend Engineering
 
 I try to make architectural and implementation decisions based on the problem rather than adding patterns automatically.
 
@@ -208,7 +208,7 @@ Protect historical financial and clinical data instead of treating everything as
 
 ---
 
-# 🔍 Areas I'm Currently Deepening
+#  Areas I'm Currently Deepening
 
 - Advanced ASP.NET Core
 - System Design
@@ -222,7 +222,7 @@ Protect historical financial and clinical data instead of treating everything as
 
 ---
 
-# 📊 GitHub Activity
+#  GitHub Activity
 
 <div align="center">
 
@@ -237,7 +237,7 @@ Protect historical financial and clinical data instead of treating everything as
 
 ---
 
-# 🎯 What I'm Looking For
+#  What I'm Looking For
 
 I'm currently open to opportunities as a:
 
@@ -263,7 +263,7 @@ I'm especially interested in teams where I can keep improving through code revie
 
 <div align="center">
 
-## 📫 Let's Connect
+##  Let's Connect
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white)](https://ahmedsaad.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ahmed-mohamed-saad-b57695356/)
